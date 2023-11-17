@@ -23,7 +23,10 @@ This tutorial outlines the ticket lifecycle examples of the open-source help des
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj/">
+    <img src="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj/"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
