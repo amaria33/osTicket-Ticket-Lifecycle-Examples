@@ -67,9 +67,34 @@ Due to the severity of the situtation, I marked the SLA as a SEV-A which is 1 ho
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU>
+    <img src="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I make a transfer of the ticket to the Sys Admin as this is going to need the Engineering team to work on patching or something more than I can. It's important to know which department to sent this crucial items to or ask if you're not 100% certain. 
+</p>
+<br />
+
+<p>
+<a href="https://drive.google.com/uc?export=view&id=1uKMe2FHoj8SwD45cxdh6preXEBJCQPZl>
+    <img src="https://drive.google.com/uc?export=view&id=1uKMe2FHoj8SwD45cxdh6preXEBJCQPZl"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
+</p>
+<p>
+It's very important to update the person who created the ticket to let them know it's being worked on and once it's been taken care of so the front line workers that are face to face with customers can have the message ASAP. 
+</p>
+<br />
+
+<p>
+<a href="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu>"
+    <img src="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
+</p>
+<p>
+It's very important to update the person who created the ticket to let them know it's being worked on. 
 </p>
 <br />
