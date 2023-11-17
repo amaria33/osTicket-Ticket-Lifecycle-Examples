@@ -95,17 +95,6 @@ It's very important to update the person who created the ticket to let them know
     title="Click for the larger version." /></a>
 </p>
 <p>
-It's very important to update the person who created the ticket to let them know it's being worked on. 
-</p>
-<br />
-
-<p>
-<a href="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu">
-    <img src="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu"
-    style="width: 900px; max-width: 100%; height: auto"
-    title="Click for the larger version." /></a>
-</p>
-<p>
 In this ticket example I made the status high SLA level SEV-B 4 HR grace period. I assigned it John with a "warm hand off" which means I contacted him and checked to see if it was ok. 
 </p>
 <br />
