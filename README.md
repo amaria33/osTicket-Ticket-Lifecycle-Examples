@@ -45,18 +45,24 @@ I logged back in as the admin I created Jane Doe. This is how it looks as a help
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=1pWBso6FDsgv10pYeRZ7ZuefSj6hQg1ri">
+    <img src="https://drive.google.com/uc?export=view&id=1pWBso6FDsgv10pYeRZ7ZuefSj6hQg1ri"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When you open up the first ticket to work you can then assign it to some to work, I assigned to myself in this lab, "Jane Doe".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://drive.google.com/uc?export=view&id=16h2giHP512ffatK8fSKmP148oualQ3ym">
+    <img src="https://drive.google.com/uc?export=view&id=16h2giHP512ffatK8fSKmP148oualQ3ym"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Due to the severity of the situtation, I marked the SLA as a SEV-A which is 1 hour to work. This is can cause a loss in the business so we it's of high pirority! 
 </p>
 <br />
 
