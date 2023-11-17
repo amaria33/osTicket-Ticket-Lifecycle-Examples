@@ -67,7 +67,7 @@ Due to the severity of the situtation, I marked the SLA as a SEV-A which is 1 ho
 <br />
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU>
+<a href="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU>"
     <img src="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
@@ -78,7 +78,7 @@ I make a transfer of the ticket to the Sys Admin as this is going to need the En
 <br />
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=1uKMe2FHoj8SwD45cxdh6preXEBJCQPZl>
+<a href="https://drive.google.com/uc?export=view&id=1uKMe2FHoj8SwD45cxdh6preXEBJCQPZl">
     <img src="https://drive.google.com/uc?export=view&id=1uKMe2FHoj8SwD45cxdh6preXEBJCQPZl"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
@@ -89,7 +89,7 @@ It's very important to update the person who created the ticket to let them know
 <br />
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu>"
+<a href="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu">
     <img src="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
