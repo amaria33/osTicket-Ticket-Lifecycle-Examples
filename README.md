@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle Examples</h1>
-This tutorial outlines the ticket lifecycle examples of the open-source help desk ticketing system osTicket.<br />
+This short and easy tutorial outlines the steps I took to complete tickets for the ticket lifecycle examples of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -51,7 +51,7 @@ I logged back in as the admin I created Jane Doe. This is how it looks as a help
     title="Click for the larger version." /></a>
 </p>
 <p>
-When you open up the first ticket to work you can then assign it to some to work, I assigned to myself in this lab, "Jane Doe".
+When you open up the first ticket to work you can then assign it to some to work, I assigned it to myself in this lab as "Jane Doe".
 </p>
 <br />
 
@@ -62,7 +62,7 @@ When you open up the first ticket to work you can then assign it to some to work
     title="Click for the larger version." /></a>
 </p>
 <p>
-Due to the severity of the situtation, I marked the SLA as a SEV-A which is 1 hour to work. This is can cause a loss in the business so we it's of high pirority! 
+Due to the severity of the situtation, I marked the SLA as a SEV-A which is 1 HR to work. This is can cause a loss in the business so it's of high pirority! 
 </p>
 <br />
 
@@ -73,7 +73,7 @@ Due to the severity of the situtation, I marked the SLA as a SEV-A which is 1 ho
     title="Click for the larger version." /></a>
 </p>
 <p>
-I make a transfer of the ticket to the Sys Admin as this is going to need the Engineering team to work on patching or something more than I can. It's important to know which department to sent this crucial items to or ask if you're not 100% certain. 
+I make a transfer of the ticket to the SysAdmin as this is going to need the Engineering team to work on patching or something more than I can do as Help Desk. It's important to know which department to send crucial items to or ask if you're not 100% certain. 
 </p>
 <br />
 
