@@ -23,8 +23,8 @@ This tutorial outlines the ticket lifecycle examples of the open-source help des
 <h2>Installation Steps</h2>
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj/">
-    <img src="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj/"
+<a href="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj">
+    <img src="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 </p>
