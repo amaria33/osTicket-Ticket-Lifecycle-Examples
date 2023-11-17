@@ -67,7 +67,7 @@ Due to the severity of the situtation, I marked the SLA as a SEV-A which is 1 ho
 <br />
 
 <p>
-<a href="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU>"
+<a href="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU">
     <img src="https://drive.google.com/uc?export=view&id=1s_vzKpL_pR7XennBLDU9R8qu6oKf0urU"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
