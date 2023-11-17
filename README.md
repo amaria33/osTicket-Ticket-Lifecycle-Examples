@@ -98,3 +98,14 @@ It's very important to update the person who created the ticket to let them know
 It's very important to update the person who created the ticket to let them know it's being worked on. 
 </p>
 <br />
+
+p>
+<a href="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu">
+    <img src="https://drive.google.com/uc?export=view&id=1MV50coVkZ1CC1B5zXlTcylmBy9zDWjWu"
+    style="width: 900px; max-width: 100%; height: auto"
+    title="Click for the larger version." /></a>
+</p>
+<p>
+It's very important to update the person who created the ticket to let them know it's being worked on. 
+</p>
+<br />
