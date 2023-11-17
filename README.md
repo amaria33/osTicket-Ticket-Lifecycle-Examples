@@ -34,10 +34,6 @@ Through the end user link I created a few tickets to work.
 <br />
 
 <p>
-Through the end user 
-</p>
-<br />
-<p>
 <a href="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj">
     <img src="https://drive.google.com/uc?export=view&id=1iyrwxOlcSlw91oVZHCo66quscFJyMPkj"
     style="width: 900px; max-width: 100%; height: auto"
