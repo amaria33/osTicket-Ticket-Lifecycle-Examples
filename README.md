@@ -17,11 +17,8 @@ This tutorial outlines the ticket lifecycle examples of the open-source help des
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Complete Pre-Install 
+- Complete Post-Install 
 
 <h2>Installation Steps</h2>
 
